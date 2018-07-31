@@ -17,11 +17,12 @@
     "test": "test"
   },
   "dependencies": {
+    "create-react-class": "^15.6.3",
     "moment": "^2.17.0"
   },
   "peerDependencies": {
     "react": ">=0.14.0",
-    "react-bootstrap": "^0.30.2"
+    "react-bootstrap": "^0.32.1"
   },
   "devDependencies": {
     "assert": "*",
@@ -53,9 +54,10 @@
     "mocha": "*",
     "mocha-babel": "*",
     "node-uuid": "*",
-    "react": "^15.0.1",
-    "react-bootstrap": "^0.30.2",
-    "react-dom": "^15.0.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.1",
     "regenerator": "*",
     "regenerator-loader": "*",
     "transform-loader": "*",
